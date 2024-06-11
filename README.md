@@ -2,8 +2,8 @@
 
 
 # Project overview
-<b>`Impression`</b> is a graduation project aims to develop an Arabic sentiment analyzer using Python. Leveraging the capabilities of machine learning and NLP libraries, this program tried to create a robust and efficient tool that can accurately classify Arabic text into positive, or Negative sentiments.<br>The development of this sentiment analyzer involves several key steps, including data collection, preprocessing, feature extraction, model training, evaluation and Deployment.<br>
-![alt text](Images/Overview.png)
+<b>`Impression`</b> is a graduation project aims to develop an Arabic sentiment analyzer using Python. Leveraging the capabilities of machine learning and NLP libraries, this program tried to create a robust and efficient tool that can accurately classify Arabic text into positive, or Negative sentiments.<br>The development of this sentiment analyzer involves several key steps, including data collection, preprocessing, feature extraction, model training, evaluation and Deployment.<br> <br>
+![alt text](Images/Overview.PNG)
 
 <h1>How to use</h1>
     <ul>
