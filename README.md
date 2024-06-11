@@ -13,7 +13,7 @@
     </ul>
   
 ## Used Dataset
-* https://github.com/SssiiiSssiii/ArabicDataset
+* https://github.com/SssiiiSssiii/ArabicDataset with some additional sentences and cleaning
 ## License
 Made by      
 * Mahmoud Ahmed Shimy
